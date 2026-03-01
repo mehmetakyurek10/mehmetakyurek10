@@ -1,4 +1,4 @@
-<h1 align="center">Mehmet Akyürek</h1>
+<h1 align="center">Hi there, I'm Mehmet</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mehmetakyurek10&color=blue" alt="Profile Views" />
@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" alt="Coding" width="200" height="200" align="right">
 
-<h3 align="left">&nbsp; A passionate Frontend developer from Turkey</h3>
+<h3 align="left">&nbsp; A passionate Frontend Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **React**
 - 📫 How to reach me **mehmetakyrk10@gmail.com**
