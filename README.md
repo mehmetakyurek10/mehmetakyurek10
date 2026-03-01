@@ -45,7 +45,7 @@
 <p align="center">
   <a>
     <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Left.png" alt="Wing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetakyurek10&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&v=1" alt="Mehmet's Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetakyurek10&theme=material-palenight" alt="Mehmet's Stats" />
     <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Right.png" alt="Wing">
   </a>
 </p>
@@ -61,7 +61,7 @@
 <p align="center">
   <a>
     <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Bottom%20Left.png" alt="Wing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakyurek10&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakyurek10&theme=material-palenight&layout=compact" alt="Top Languages" />
     <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Bottom%20Right.png" alt="Wing">
   </a>
 </p>
@@ -69,7 +69,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetakyurek10&theme=dracula&no-frame=false&no-bg=false&margin-w=4&v=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mehmetakyurek10&theme=dracula" alt="Trophies" />
 </div>
 
 <br />
