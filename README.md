@@ -8,13 +8,13 @@
 
 <div align="center">
  <a href="https://github.com/mehmetakyurek10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Mehmet+Akyürek+%e2%9c%a8;%f0%9f%93%9a+Frontend+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Mehmet+Aky%C3%BCrek+%E2%9C%A8;%F0%9F%93%9A+Frontend+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing Text" />
  </a>
 </div>
 
 <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" alt="Coding" width="200" height="200" align="right">
 
-<h3 align="left">&nbsp; A passionate Web3 & Frontend developer from Turkey</h3>
+<h3 align="left">&nbsp; A passionate Frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **React**
 - 📫 How to reach me **mehmetakyrk10@gmail.com**
@@ -45,7 +45,7 @@
 <p align="center">
   <a>
     <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Left.png" alt="Wing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetakyurek10&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Mehmet's Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetakyurek10&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&v=1" alt="Mehmet's Stats" />
     <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Right.png" alt="Wing">
   </a>
 </p>
@@ -61,7 +61,7 @@
 <p align="center">
   <a>
     <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Bottom%20Left.png" alt="Wing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakyurek10&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakyurek10&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1" alt="Top Languages" />
     <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Bottom%20Right.png" alt="Wing">
   </a>
 </p>
@@ -69,7 +69,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetakyurek10&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mehmetakyurek10&theme=dracula&no-frame=false&no-bg=false&margin-w=4&v=1" alt="Trophies" />
 </div>
 
 <br />
