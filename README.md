@@ -40,40 +40,6 @@
 
 <br />
 
-# 📊 Github Stats
-
-<p align="center">
-  <a>
-    <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Left.png" alt="Wing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetakyurek10&theme=material-palenight" alt="Mehmet's Stats" />
-    <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Right.png" alt="Wing">
-  </a>
-</p>
-
-<p align="center">
-  <a>
-    <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Left.png" alt="Wing">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetakyurek10&theme=material-palenight&hide_border=false" alt="Mehmet's Streak" width="55%" />
-    <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Right.png" alt="Wing">
-  </a>
-</p>
-
-<p align="center">
-  <a>
-    <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Bottom%20Left.png" alt="Wing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakyurek10&theme=material-palenight&layout=compact" alt="Top Languages" />
-    <img height="160" width="182" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/Bird%20Wing%20Bottom%20Right.png" alt="Wing">
-  </a>
-</p>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetakyurek10&theme=dracula" alt="Trophies" />
-</div>
-
-<br />
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetakyurek10/mehmetakyurek10/output/github-contribution-grid-snake-dark.svg">
