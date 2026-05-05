@@ -8,13 +8,11 @@
 
 <div align="center">
  <a href="https://github.com/mehmetakyurek10">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Mehmet+Aky%C3%BCrek+%E2%9C%A8;%F0%9F%93%9A+Frontend+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Mehmet+Aky%C3%BCrek+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing Text" />
  </a>
 </div>
 
 <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" alt="Coding" width="200" height="200" align="right">
-
-<h3 align="left">&nbsp; A passionate Frontend Developer from Turkey</h3>
 
 - 📫 How to reach me **mehmetakyrk10@gmail.com**
 
