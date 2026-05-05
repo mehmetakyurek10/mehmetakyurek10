@@ -16,7 +16,6 @@
 
 <h3 align="left">&nbsp; A passionate Frontend Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React**
 - 📫 How to reach me **mehmetakyrk10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
